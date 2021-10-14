@@ -44,10 +44,7 @@ Article where I described the most relevant findings
 ## File Descriptions <a name="File-Descriptions"></a>
 This is the high level description of all the files in this project.
 ```
-├── zip_datasets -----------------------------# directory containing zip files of each year survey 
-│      
-├── unzip_datasets ---------------------------# directory where the files will be unzipped in specific subdirectories
-│        
+├── zip_datasets -----------------------------# directory containing zip files of each year survey         
 ├── exploring_stackoverflow.ipynb ------------
 ├── readME.md
 ```
