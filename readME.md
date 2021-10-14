@@ -35,10 +35,10 @@ The following packages and versions are used in this jupyter notebook. Any recen
 There are 2 main components in this project.
 
 ### 1. Jupyter Notebook
-Notebook where I ran all my analyses
+Notebook where I ran all my analyses.
 
 ### 2. Blog Article
-Article where I described the most relevant findings
+Article where I described the most relevant findings.
 
 
 ## File Descriptions <a name="File-Descriptions"></a>
@@ -56,7 +56,7 @@ A ReadME.md file describes this repository.
 ## Instructions <a name="How-To-Run-This-Project"></a>
 
 #### 1. Open exploring_stackoverflow.ipynb and run the project
-#### 2. Check my article at ...
+#### 2. Check my article at https://medium.com/p/e6bf7fac394c/edit
 
 
 ## Licensing, Authors, Acknowledgements <a name="License"></a>
