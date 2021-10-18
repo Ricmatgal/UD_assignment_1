@@ -56,7 +56,7 @@ A ReadME.md file describes this repository.
 ## Instructions <a name="How-To-Run-This-Project"></a>
 
 #### 1. Open exploring_stackoverflow.ipynb and run the project
-#### 2. Check my article at https://medium.com/p/e6bf7fac394c/edit
+#### 2. Check my article at https://medium.com/@riccardomgalli/these-are-the-trends-in-the-programming-world-across-the-last-few-years-e6bf7fac394c
 
 
 ## Licensing, Authors, Acknowledgements <a name="License"></a>
