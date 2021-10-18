@@ -51,7 +51,7 @@ This is the high level description of all the files in this project.
 
 The original datasets are provided in `.zip` files <br>
 1 jupyter notebook `.ipynb` detail the data cleaning and machine learning process. <br>
-A ReadME.md file describes this repository.
+A readME.md file describes this repository.
 
 ## Instructions <a name="How-To-Run-This-Project"></a>
 
